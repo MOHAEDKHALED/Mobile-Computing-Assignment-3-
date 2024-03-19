@@ -1,6 +1,4 @@
-# Mobile Computing
+# Mobile Computing Assignment 3
 
-Login Page Using Flutter Assignment 3.
-
-# Abdulhady Mohammed Qassem Ahmed - 2021283 - G4
+# Mohamed Khaled Mohamed Mohamed Ali Idris - CS(G4)
 
