@@ -2,6 +2,6 @@
 
 # Mohamed Khaled Mohamed Mohamed Ali Idris - CS(G4)
 
-![screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 
